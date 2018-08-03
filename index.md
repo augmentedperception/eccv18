@@ -1,7 +1,7 @@
 ## Organizers
 <p style="text-align: center;"> Sean Fanello, Julien Valentin, Jonathan Taylor, Christoph Rhemann, Adarsh Kowdle, Jürgen Sturm, </p>
 <p style="text-align: center;"> Christine Kaeser-Chen, Pavel Pidlypenskyi, Rohit Pandey, Andrea Tagliasacchi, Sameh Khamis, </p>
-<p style="text-align: center;"> David Kim, Mingsong Dou, Kaiwen Guo, Danhang Tang, Shahram Izadi</p>
+<p style="text-align: center;"> David Kim, Mingsong Dou, Kaiwen Guo, Danhang Tang, Sofien Bouaziz, Shahram Izadi</p>
 
 <p style="text-align: center;"> <b> Google </b> </p>
 <p style="text-align:center"><img src="http://www.seanfanello.it/wp-content/uploads/2018/04/stack.png"/></p>
