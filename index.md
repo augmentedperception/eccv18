@@ -126,12 +126,7 @@ September 8th, GASTEIG Cultural Center, Room TBD
     <td><div align="center"> 16:15 - 16:30 </div> </td>
     <td><div align="center"> Neural rendering for Performance Capture </div> </td> 
     <td><div align="center"> Ricardo Martin Brualla <br/> Google </div> </td> 
-  </tr>   
-  <tr>
-    <td><div align="center"> 16:30 - 16:45 </div> </td>
-    <td><div align="center"> Machine Learning for Human Motion Understanding on Embedded Devices </div> </td> 
-    <td><div align="center"> Pavel Pidlypenskyi <br/>Google </div> </td> 
-  </tr>      
+  </tr>     
 </table>
 
 Please contact  [Shahram Izadi](mailto:shahrami@google.com) or [Sean Fanello](mailto:seanfa@google.com) if you have any questions.
